@@ -1,10 +1,7 @@
 Hello 
 World
 
+
 Page
 World
-
-Amazon
-Tesla
------------
 
